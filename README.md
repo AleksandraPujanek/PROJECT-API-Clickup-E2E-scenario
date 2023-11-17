@@ -11,7 +11,7 @@ Verification of REST API in Clickup / E2E scenario using JAVA/Rest Assured
     - update task name and description
     - change task's status to "completed"
 - create requests and test scripts in JAVA using Rest Assured library
-- apply good practisies: clean up after testing activities
+- apply good practises: clean up after testing activities
 - run tests from Maven and Jenkins
 - create Test Report in Allure
 
