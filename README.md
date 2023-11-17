@@ -29,7 +29,9 @@ Both approaches are correct.
 - Allure Report
 
 **Jenkins configuration:**
-
+- Repository URL: https://github.com/AleksandraPujanek/PROJECT-API-Clickup-E2E-scenario
+- Build steps: Invoke top-level Maven targets
+- Goals: clean test -Dtoken=TYPE_YOUR_TOKEN -DteamId=TYPE_YOUR_TEAM_ID
 
 **Documentation:** [REST API Clickup - documentation](https://clickup.com/api/)
 
