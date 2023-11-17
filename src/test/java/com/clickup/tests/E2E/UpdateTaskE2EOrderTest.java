@@ -28,7 +28,7 @@ class UpdateTaskE2EOrderTest {
     private static String spaceId;
     private static String listId;
     private static String taskId;
-    private static final Logger LOGGER = LoggerFactory.getLogger(UpdateTaskE2EAllinOneTest.class);
+    private static final Logger LOGGER = LoggerFactory.getLogger(UpdateTaskE2EOrderTest.class);
 
 
     @Test
